@@ -12,4 +12,5 @@ const meetingSchema: Schema = new Schema({
     timestamps: true
 });
 
+
 export const Meeting = mongoose.model('Meeting', meetingSchema);
