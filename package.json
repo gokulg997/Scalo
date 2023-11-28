@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gokulg997/Scalo.git"
+    "url": "git+https://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@github.com/gokulg997/Scalo.git"
   },
   "author": "Gokul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gokulg997/Scalo/issues"
+    "url": "https://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@github.com/gokulg997/Scalo/issues"
   },
-  "homepage": "https://github.com/gokulg997/Scalo#readme",
+  "homepage": "https://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@github.com/gokulg997/Scalo#readme",
   "keywords": [],
   "dependencies": {
     "@popperjs/core": "^2.11.8",
